@@ -394,3 +394,7 @@ Z:\Nuevas Tech\OrtubeVideo\Practice1\Practice1\bin\EntityFramework.dll
 Z:\Nuevas Tech\OrtubeVideo\Practice1\Practice1\bin\EntityFramework.SqlServer.dll
 Z:\Nuevas Tech\OrtubeVideo\Practice1\Practice1\bin\EntityFramework.xml
 Z:\Nuevas Tech\OrtubeVideo\Practice1\Practice1\bin\EntityFramework.SqlServer.xml
+C:\Users\tomma\Desktop\Tomas\ORT\Nuevo taller 1\OrtubeVideo\Practice1\Practice1\bin\EntityFramework.dll
+C:\Users\tomma\Desktop\Tomas\ORT\Nuevo taller 1\OrtubeVideo\Practice1\Practice1\bin\EntityFramework.SqlServer.dll
+C:\Users\tomma\Desktop\Tomas\ORT\Nuevo taller 1\OrtubeVideo\Practice1\Practice1\bin\EntityFramework.xml
+C:\Users\tomma\Desktop\Tomas\ORT\Nuevo taller 1\OrtubeVideo\Practice1\Practice1\bin\EntityFramework.SqlServer.xml
